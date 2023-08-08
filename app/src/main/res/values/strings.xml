@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ML</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="details">DETAILS</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Camera">Camera</string>
+</resources>
